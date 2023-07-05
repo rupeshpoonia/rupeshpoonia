@@ -26,6 +26,7 @@
 
 
 [![Certificate](certificate.png)](https://www.hackerrank.com/certificates/2940b093840a)
+[![Certificate](certificate2.png)](https://www.hackerrank.com/certificates/2940b093840a)
 
 
 
