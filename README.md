@@ -26,7 +26,7 @@
 
 <h3 align="left">Certificates</h3>
 
-<div style="display:flex;">
+<div style="display:flex;justify-content: center;">
 <a href="https://www.hackerrank.com/certificates/20117c632796">
   <img src="pro-intermediate.png" alt="Certificate" width="300" height="200">
   </a>
